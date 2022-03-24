@@ -1,0 +1,23 @@
+	
+
+	Variables:
+
+	Un variable es el valor que le damos a un elemento que puede ser por ejemplo lo que contiene una caja de zapatos, este valor nos va a servir en el futuro para poder usarlo para hacer diferentes cosas.
+
+	Strings
+
+	Un string es un tipo de informacion que usan las computadoras que tiene como característica escribirse entre comillas, y puede ser un número, una letra, un signo.
+
+	Funciones (argumentos, `return`)
+
+	Una funcion se comporta como una maquina que tiene un mision especifica que hacer, por la máquina van pasando diferentes elementos y cuando estos pasan les va devolviendo el resultado de lo que logró hacer.
+	Por ejemplo una máquina que se encarga de medir entonces nosotros vamos pasando por ella diferentes medidas de suelas de zapatos, y al final vamos a poder saber cual era la medida de cada una de ellas.
+
+	* Declaraciones `if`
+
+	Una declaración es algo que sabemos sin tener dudas, como una afirmacion sobre algo que es verdadero o falso.
+	El if nos sirve para determinar en una situacion particular si esa afirmacion puede ser verdadera o falsa
+
+	* Valores booleanos (`true`, `false`)
+
+	Los valores booleanos son aquellos que son entendidos por las computadoras por  ejemplo, como no tienen un lenguaje coloquial este es el unico que les permite entenderse con las personas. Este lenguaje esta forma por dos valores que en las computadoras esta representado por 0 (ceros) y 1 (unos), y las personas los entendemos como verdadero o falso.
