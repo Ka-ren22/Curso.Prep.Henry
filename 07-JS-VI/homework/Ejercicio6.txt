@@ -1,0 +1,4 @@
+Funciones callback
+
+Una función es un conjunto de pasos ordenados que usamos para lograr un objetivo determinado.  Para que sea una función se deben  ingresar determinados valores que los utilizan para luego sacarlos de otra forma utilizando el conjunto de pasos ordenados o las instrucciones.
+Estos datos que ingresan se llaman argumentos y la funciones callback tiene la propiedad de poder usar como argumentos otras funciones. Esto permite lograr hacer un procedimiento tras otro de forma ordenada, siempre y cuando lo pidamos.
