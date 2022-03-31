@@ -1,0 +1,3 @@
+Array
+
+Un array es como un contenedor,  un recipiente donde podemos poner difentes tipos de valores que tienen en común con  objeto determinado. Este contenedor a su vez esta separado en otros contenedores que los podemos pensar con cajitas donde esta guardada y dividida toda la información. Cada vez que queremos usar o buscar lo que tenga guardado debemos recorrelo para ello los arrays tienen posiciones y cada una de ellas correponde a cada cajita. Siempre la primer posición es cero hasta el número de cajas que tenga.
