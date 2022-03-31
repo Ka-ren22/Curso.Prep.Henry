@@ -1,0 +1,12 @@
+For
+
+Un bucle for nos sirve como herramienta cuando queremos recorrer un arreglo por ejemplo que es un contenedor, como un recipiente, de informacion que se agrega en forma de valores, varias veces hasta poder encontrar un valor buscado.
+
+Los operadores lógicos son como los que usamos en Matemáticas para sumar, restar, multiplicar o dividir,
+pero la diferencia es que nos ayudan a ver si algo es verdadero o falso comparandolo con otra cosa. Hay tres tipos:
+
+- El operador && ("AND") nos ayuda a ver si algo es verdadero siempre y cuando se cumplan las 2 condiciones, si o si, si una de ellas no se cumple o ninguna de ellas diremos que es falso.
+
+- El operador || ("OR") nos dice si algo es verdadero cuando solo se cumple una de las condiciones, puede ser cualquiera de ellas, con una basta para decir que es verdadero. Y sera falso cuando ninguna de ellas se cumpla.
+
+-El operador ! ("NOT") nos permite ver la opcion contraria a la que encontremos, es como un hacer una pregunta poniendo un no al comenzar. Si vemos que algo es verdadero, con el "NOT"  adelante descubriremos que es falso y asi también con la opción que haga que la respuera sea falsa, entonces con el operador adelante, veremos que es verdadera.
