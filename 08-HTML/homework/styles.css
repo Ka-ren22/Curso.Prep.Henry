@@ -1,0 +1,50 @@
+		img{
+			width: 400px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		h1 {
+			color: red;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		#thirdDiv{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+			width: 500px;
+			height: 600px;
+			background : pink;
+			padding: 50px;
+			border-style: solid;
+			border-color: black;
+			border-width: 10px;
+			margin: auto;
+
+		}
+		#spanId{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-size: 18px;
+			margin: 50px;
+		}
+		ul{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+
+		}
+
+		body {
+			background-image: url(https://thumbs.dreamstime.com/z/textura-del-fondo-blanco-de-la-pared-para-composici%C3%B3n-contexto-revista-p%C3%A1gina-web-o-el-dise%C3%B1o-gr%C3%A1fico-134248506.jpg);
+
+
+		}
+		
+		

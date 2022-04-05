@@ -1,0 +1,68 @@
+<style>
+	h1{
+		color: black;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 20px;
+
+	}
+
+	img{
+			width: 400px;
+			display: flex;
+			justify-content: center;
+			align-items: center
+			padding: 50px;
+			border-style: solid;
+			border-color: black;
+			border-width: 0px;
+			margin: auto;
+	}
+	.Descripcion{
+		font-size: 20px;
+		display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+	}
+	.Educacion{
+		font-size: 20px;
+		display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+	}
+	.Exp-Laborales{
+		font-size: 20px;
+		display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+	}
+	.Skills{
+		font-size: 20px;
+		display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+	}
+	.Hobbies{
+		font-size: 20px;
+		display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+	}
+	.Elección {
+		font-size: 20px;
+		display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column
+	}
+
+	body {
+		background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISDxUPEhIWFRUVFRUVFRUVFx0dFRUVFRUWFhUVFxcYHSggGB0lHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAOEA4QMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAQIH/8QAHhABAQEAAgIDAQAAAAAAAAAAAAERMfBBwQKBkSH/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDoYisFCCoAAAqaAqLqAqAAqAKgAKiggqAqKgAAKgoAgAoACAKIAogCiAKIAogCiAKIAogCiAKIAogCiGAogAqKACACgCCgiiACgAAIoAIKCKAIKAIoCCoAKAigCd4VFAwQAVAFQAFQAABUAAAFQAXBAAAFQAMVAFQAXBAFExQQUBBQEFAQUBBQEUAQUARQEUAQVABQEFAEUBBQEBQBAFBAVABRAFRUBRABRAVBQRUAVABRAAABUAUQAUAQUBBQEFAQUBBQEFAQUBBQEFAQUBNFAQUBBQEFAT8F0BFQBUVAVAAABUABUAFQBUAAAAAAAAAAABUAAUEFAQFBFEAFAQUBBUABQEVABQBBQQUBAUEFQAUBFAAxAFEAXBABUAUQAVAFEAXBAFMQBUABUAUQBRAFMQBQARUAUQBRAFEAVBQBABRAUQBRAFRUBRABUAURQBABUAVABRAFEAUQBUAFBAUQBRAAAFEAVABRAFEAUQBRAAUARQBFATVAENUBFAEFARQBFAEFAQUBBQEFAQUBO9/qooICggAAqAAAAAAoJiooIogAAKgACoAAAqAKgoJ9qneFBIny9KAtZnlQC8lUBIeQAvsigJOSgBCACfJqgDMW8gBSAB5L7UBITkAKRQEiUAbAB//Z);
+
+</style>
