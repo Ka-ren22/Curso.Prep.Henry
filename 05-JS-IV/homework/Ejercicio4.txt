@@ -1,19 +1,19 @@
-Objetos
+Objetos:
 
 	A diferencia de los arreglos que pueden contener inforación sobre distintos elementos, los objetos contienen informacion sobre unas sola cosa y se escriben usando llaves
 
-Propiedades
+Propiedades:
 
 	Son las características que te tiene el objeto y las llamamos a traves de algo llamado key-value, el key quiere decir que es el nombre que le damos a la propiedad para ubicarlo y el value es el valor que toma la propiedad. Cada propiedad se escribe separada por comas.
 
-Métodos
+Métodos:
 	 Son las funciones que le damos a los objetos que pueden formar parte de sus propiedades. Las funciones que se usan en los objetos se llaman  métodos, se escriben entre paréntesis y permiten imprimir lo que queremos decir.
 
-Bucle for…in
+Bucle for…in:
 	
 	 El bucle for...in nos permite recorrer el objeto hasta encontrar la propiedad que necesitamos o el valor de esa propiedad. En los arreglos cada parte del mismo esta nombrada por una posicion y un número que comienza en cero, como en los objetos no tenemos posiciones con numeros sino que cada una tiene un nombre particular, cuando necesitemos hallar cierto valor vamos a usar el bucle for...in y seguido ponemos el nombre de la propiedad que buscamos.
 
-Notación de puntos vs notación de corchetes
+Notación de puntos vs notación de corchetes:
 		
 		La notación de puntos nos sirve para llamar a la propiedad del objeto, para no escribrir cada vez que lo necesitemos con su key-value, usamos esta notacion escribiendo el nombre del objeto, un punto y seguido por la propiedad que busquemos.
-		La notacion en corchetes tambien nos sirve para llamar a la propiedad del objeto pero la propiedad debe ser debe estar escrite como una cadena de texto o un número.
+		La notacion en corchetes tambien nos sirve para llamar a la propiedad del objeto pero la propiedad debe ser debe estar escrita como una cadena de texto o un número.
