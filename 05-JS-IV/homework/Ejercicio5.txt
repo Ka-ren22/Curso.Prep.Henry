@@ -1,0 +1,9 @@
+Prototype
+
+Es una propiedad de las clases que permite establecer un método que luego podra ser usado por varios objetos, sin necesidad de escribir el mismo método cada vez que lo necesitemos para diferentes tipos de objetos. Esto permite
+heredar  métodos y propiedades, es decir poder pasar las propiedades del Constructor al objeto.
+
+Constructors (de Clases)
+  
+  Es como una plantilla que nos permite constuir objetos que comparten las mismas propiedas y métodos. Usamos la palabra new para crear un nuevo objeto a través de la plantilla que tengan las mismas características que la clase. Siempre que hablemos de Constructor el nombre siempre va en mayúsculas, por convención, es decir que todos los programadores se pusieron de acuerdo para que así fuera. Y otra propiedad es que tiene el 
+  la palabra clave "this" que es a través del cual permite crear otros objetos.
